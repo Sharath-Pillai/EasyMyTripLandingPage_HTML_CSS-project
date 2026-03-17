@@ -1,6 +1,6 @@
 # EasyMyTrip Landing Page Clone
-
 A responsive landing page clone of the EasyMyTrip.com travel booking website.[it was my initial phase project when i was learning HTML and CSS but i did not used git that time so i posting now.This project teach me more HTML and CSS features.]
+
 
 ## Project Overview
 
